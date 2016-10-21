@@ -21,5 +21,6 @@ What should be done according my capability in 4 hours i have done in this demo 
 * Implement Model Class while fetching data from server after json parsing.
 * More enhanced ui with update by scrolling down.
 * UI of temperature screen will become more enhanced on basis of city, lu's or citycode.
+* Persistent of weather record to show when user is offline. 
 
 
